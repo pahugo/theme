@@ -12,6 +12,7 @@
  *
  *= require bootstrap.css
  *= require agency.css
+ *= require font-awesome.css.erb
  *= require_tree .
  *= require_self
  */
